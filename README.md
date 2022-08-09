@@ -21,8 +21,10 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanraghuvanshi/)
 
+<hr><br><hr>
+
 <div align="center">
-  <p>Say Hello to the Task Buddy, your simple handy to-do-list</p><br>
+  <p><strong>Say Hello to the Task Buddy,<br>Your Simple and Handy To Do List</strong></p><br>
   <a href="https://amanraghuvanshi.github.io/todolist.github.io/"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
 

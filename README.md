@@ -25,7 +25,7 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 
 <div align="center">
   <p><strong>Say Hello to the Task Buddy,<br>Your Simple and Handy To Do List</strong></p><br>
-  <a href="https://amanraghuvanshi.github.io/todolist.github.io/"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
+  <a href="https://amanraghuvanshi.github.io/todolist.github.io/" target="_blank"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
 
 

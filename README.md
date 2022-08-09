@@ -23,7 +23,10 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 
 <div align="center">
   <p>Say Hello to the Task Buddy, your simple handy to-do-list</p><br>
-  <a href="https://amanraghuvanshi.github.io/todolist.github.io/"><strong>Live Demo</strong></a>
+  <a href="https://amanraghuvanshi.github.io/todolist.github.io/"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
+
+
+
 ![To Do_Tab](https://user-images.githubusercontent.com/110326399/183694373-13bcfc26-8cc2-4dc8-871c-97d6180df7a1.png)
 
